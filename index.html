@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="normalize.css">
+        <link rel="stylesheet" href="styles.css">
+        <title>Encriptador de texto</title>
+    </head>
+
+    <body>
+        <main class="main">
+            <div class="logo">
+                <a href="https://www.aluracursos.com/" target="_blank" rel="noopener noreferrer"><img src="img/logo_alura.svg" alt="logo"></a>
+            </div>
+            <div class="container">
+                <div class="input_text">
+                    <textarea class="input_text_encrypt" id="input_text_encrypt" placeholder="Ingrese el texto aquí..."></textarea>
+                    <div class="bottom">
+						<p id="errorMessage" class="error">  </p>
+                        <div class="buttons">
+                            <button class="button button_encrypt" id="button_encrypt">Encriptar</button>
+                            <button class="button button_decrypt" id="button_decrypt">Desencriptar</button>
+                        </div>
+                    </div>
+                </div>        
+            </div>
+            <div class="output_text" id="output_text">
+                <div class="result no_texto">
+                    <div class="no_output">
+                        <img id="Challenge" class="" src="img/logo_challenge.svg" alt="Logo del challenge">					
+						<p class="title">Ingrese el texto que desea encriptar o desencriptar</p>
+                        <p class="subtitle">Sólo letras minúsculas, sin acentos y sin caracteres especiales<br /></p>						
+                    </div>
+                    <div class="result_output">
+                        <textarea class="output_text_decrypt" id="output_text_decrypt" ></textarea>
+                        <button class="button button_decrypt button_copiar"id="button_copy">Copiar</button>
+                    </div>
+                </div>
+            </div>           
+        </main>
+        <footer class="footer-all">
+			<div class="footer-center">
+				<p class="footer-name">
+					<a href="https://www.oracle.com/pe/education/oracle-next-education/">ORACLE ONE</a> - 
+					<a href="https://www.aluracursos.com/">ALURA LATAM</a> - 
+					<a href="https://github.com/aa-az/Challenge-ONE-Decoder">CHALLENGE ONE: ENCRIPTADOR DE TEXTO</a> - 
+					<a href="https://github.com/aa-az/">© 2024 Arturo Alejandro Aguirre Zevallos</a>
+				</p>
+			</div>
+		</footer>
+        
+        <script src="scripts.js"> </script>
+        <div id="overlay"></div>
+        <div id="custom-alert"></div>
+		
+    </body>
+</html>
