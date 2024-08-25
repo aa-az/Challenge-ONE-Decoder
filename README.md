@@ -1,4 +1,4 @@
-# CHALLENGE ONE: ENCRIPTADOR DE TEXTO
+# Challenge One: Encriptador de Texto
 
 
 ![preview del proyecto](https://github.com/aa-az/Challenge-ONE-Decoder/blob/main/img/preview.jpg)
@@ -42,7 +42,7 @@ El proyecto fue resuelto utilizando **HTML, CSS Y JAVASCRIPT**, así como las he
 
 Mi más profundo agradecimiento a la Plataforma Educativa **ALURA LATAM** que en convenio con **ORACLE ONE** están brindando una capacitación de calidad, permitiendo a los alumnos formarse con los más altos estándares educativos y solventando así las exigencias del mercado.
 
-Además quiero agradecer a los instructores: **Bárbara Santos, Jeanmarie Quijada, Ellen Pimentel, Génesys Rondón, Christian Velasco, Leonardo José Castillo Lacruz, Gabriela Aguiar y Priscila Stuani**; quienes con sus instrucciones y charlas enfocadas en el desarrollo de Javascript y en el desarrollo personal, permitieron que mi aprendizaje sea más profundo y personal, enriqueciendo mis conocimientos y mi espíritu.
+Además quiero agradecer a los instructores: [Bárbara Santos](https://app.aluracursos.com/user/barbara-santos), [Jeanmarie Quijada](https://www.linkedin.com/in/jeanmariequijada/), [Ellen Pimentel](https://www.linkedin.com/in/ellen-p-pimentel/), [Génesys Rondón](https://www.linkedin.com/in/genesysrondon914762182/), [Christian Velasco](https://www.linkedin.com/in/christianpva), [Leonardo José Castillo Lacruz](https://www.linkedin.com/in/leonardo-castillo-4911571a/), [José Gonzalez](https://www.linkedin.com/in/desenvolvedor-jose/), [Gabriela Aguiar](https://www.linkedin.com/in/gabyaguiar/) y [Priscila Stuani](https://www.linkedin.com/in/priscilastuani/); quienes con sus instrucciones y charlas enfocadas en el desarrollo de Javascript y en el desarrollo personal, permitieron que mi aprendizaje sea más profundo y personal, enriqueciendo mis conocimientos y mi espíritu.
 
 Gracias amigos profesores, nos vemos en el camino.
 
