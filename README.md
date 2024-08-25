@@ -1,5 +1,7 @@
 ﻿**CHALLENGE ONE: ENCRIPTADOR DE TEXTO.**
 
+![preview del proyecto](https://github.com/aa-az/Challenge-ONE-Decoder/blob/main/img/preview.jpg)
+
 Este proyecto es el primero de los **“Challenges”** propuestos por la Plataforma **ALURA LATAM – ORACLE ONE** a sus alumnos del curso de JavaScript, siguiendo la metodología de **“Aprender haciendo”**, lo cual permite al participante aplicar los conocimientos adquiridos y ganar experiencia enriquecedora.
 
 El proyecto propuesto consiste básicamente en **“encriptar”** un texto, cambiando las vocales por un texto determinado y devolver la frase resultante al usuario. De modo similar, también debe ofrecerse al usuario la operación de **“desencriptado”**, devolviendo el texto encriptado a su versión original. Como añadidura, debe darse al usuario la oportunidad de **“copiar”** la frase obtenida en el proceso de encriptación a través de una opción dispuesta para ello en la interface con el usuario.
