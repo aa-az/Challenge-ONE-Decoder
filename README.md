@@ -1,12 +1,14 @@
-﻿**CHALLENGE ONE: ENCRIPTADOR DE TEXTO.**
+# CHALLENGE ONE: ENCRIPTADOR DE TEXTO
+
 
 ![preview del proyecto](https://github.com/aa-az/Challenge-ONE-Decoder/blob/main/img/preview.jpg)
+
 
 Este proyecto es el primero de los **“Challenges”** propuestos por la Plataforma **ALURA LATAM – ORACLE ONE** a sus alumnos del curso de JavaScript, siguiendo la metodología de **“Aprender haciendo”**, lo cual permite al participante aplicar los conocimientos adquiridos y ganar experiencia enriquecedora.
 
 El proyecto propuesto consiste básicamente en **“encriptar”** un texto, cambiando las vocales por un texto determinado y devolver la frase resultante al usuario. De modo similar, también debe ofrecerse al usuario la operación de **“desencriptado”**, devolviendo el texto encriptado a su versión original. Como añadidura, debe darse al usuario la oportunidad de **“copiar”** la frase obtenida en el proceso de encriptación a través de una opción dispuesta para ello en la interface con el usuario.
 
-**Consideraciones del proyecto:**
+## Consideraciones del proyecto:
 
 1\.- Disponer una interfaz sencilla que permita al usuario una interacción fácil y rápida.
 
@@ -32,19 +34,19 @@ La letra **"o"** será igual al texto:**"ober"**
 
 La letra **"u"** será igual al texto:**"ufat"**
 
-**Resolución del proyecto:**
+## Resolución del proyecto:
 
 El proyecto fue resuelto utilizando **HTML, CSS Y JAVASCRIPT**, así como las herramientas **FIGMA, TRELLO y VISUAL STUDIO CODE**.
 
-**Agradecimientos:**
+## Agradecimientos:
 
-` `Mi más profundo agradecimiento a la Plataforma Educativa **ALURA LATAM** que en convenio con **ORACLE ONE** están brindando una capacitación de calidad, permitiendo a los alumnos formarse con los más altos estándares educativos y solventando así las exigencias del mercado.
+Mi más profundo agradecimiento a la Plataforma Educativa **ALURA LATAM** que en convenio con **ORACLE ONE** están brindando una capacitación de calidad, permitiendo a los alumnos formarse con los más altos estándares educativos y solventando así las exigencias del mercado.
 
 Además quiero agradecer a los instructores: **Bárbara Santos, Jeanmarie Quijada, Ellen Pimentel, Génesys Rondón, Christian Velasco, Leonardo José Castillo Lacruz, Gabriela Aguiar y Priscila Stuani**; quienes con sus instrucciones y charlas enfocadas en el desarrollo de Javascript y en el desarrollo personal, permitieron que mi aprendizaje sea más profundo y personal, enriqueciendo mis conocimientos y mi espíritu.
 
 Gracias amigos profesores, nos vemos en el camino.
 
-**Notas:**
+## Notas:
 
 El desarrollo del proyecto propuesto es de mi autoría, si bien no es perfecto, estaré gustoso de escuchar sugerencias, pueden contactarme en el email: <aa_az@hotmail.com>
 
