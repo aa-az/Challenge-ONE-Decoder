@@ -86,6 +86,7 @@ function showEncrypted() {
 		textOutput.innerHTML = textEncrypted;
 		textOutput.value = textEncrypted;
 		Refresh();
+		textInput.value = "";
 	} else {
     myAlert(NOTHINGTOENCRYPT);
     focusTextArea();
@@ -98,6 +99,7 @@ function showDecrypted() {
         textOutput.innerHTML = textDecrypted;
         textOutput.value = textDecrypted;
         Refresh();
+	textInput.value = "";
     }
     else {
         myAlert(NOTHINGTODECRYPT);
